@@ -1,4 +1,4 @@
 # cv
-if (window.location.href==="https://xyz.github.io") {
-    window.location.href = "https://mycustomdomain.com"; 
+if (window.location.href==="https://jucbca.github.io/cv") {
+    window.location.href = "https://jucbca.wixsite.com/curriculumvitae"; 
 }
